@@ -138,7 +138,7 @@ Author: Ibrahim Zaman
       home: `Welcome to Ibrahim Zaman's terminal portfolio!
 Feel free to explore by clicking the tabs above.
 
-[ibrahimzaman-web:~/]$ I'm a software developer passionate about creating elegant solutions.`,
+[ibrahimzaman-web:~/]$\nI'm a software developer passionate about creating elegant solutions.`,
 
       about: `[ibrahimzaman-web:~/about]$ cat about.txt
 
